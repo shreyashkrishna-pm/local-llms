@@ -1,0 +1,6 @@
+.env
+venv/
+documents/
+.gradio/
+.DS_Store
+__pycache__/
